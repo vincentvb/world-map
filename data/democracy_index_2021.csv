@@ -1,0 +1,168 @@
+iso3,name,eiu_region,year,rank,value
+NOR,Norway,Western Europe,2021,1,9.75210084
+NZL,New Zealand,Asia & Australasia,2021,2,9.365779645
+FIN,Finland,Western Europe,2021,3,9.267273576
+SWE,Sweden,Western Europe,2021,4,9.264005602
+ISL,Iceland,Western Europe,2021,5,9.177987862
+DNK,Denmark,Western Europe,2021,6,9.092086835
+IRL,Ireland,Western Europe,2021,7,8.995448179
+TWN,Taiwan,Asia & Australasia,2021,8,8.991479925
+AUS,Australia,Asia & Australasia,2021,9,8.902194211
+CHE,Switzerland,Western Europe,2021,10,8.89764239
+NLD,Netherlands,Western Europe,2021,11,8.883753501
+CAN,Canada,North America,2021,12,8.869164332
+URY,Uruguay,Latin America & the Caribbean,2021,13,8.849906629
+LUX,Luxembourg,Western Europe,2021,14,8.679971989
+DEU,Germany,Western Europe,2021,15,8.674719888
+KOR,South Korea,Asia & Australasia,2021,16,8.16363212
+JPN,Japan,Asia & Australasia,2021,17,8.153011204
+GBR,Britain,Western Europe,2021,18,8.098039216
+MUS,Mauritius,Sub-Saharan Africa,2021,19,8.08286648
+AUT,Austria,Western Europe,2021,20,8.073646125
+CRI,Costa Rica,Latin America & the Caribbean,2021,21,8.074112979
+FRA,France,Western Europe,2021,22,7.994281046
+ISR,Israel,Middle East & North Africa,2021,23,7.968137255
+ESP,Spain,Western Europe,2021,24,7.936741363
+CHL,Chile,Latin America & the Caribbean,2021,25,7.922735761
+USA,United States,North America,2021,26,7.85270775
+EST,Estonia,Eastern Europe,2021,27,7.843487395
+PRT,Portugal,Western Europe,2021,28,7.818277311
+CZE,Czech Republic,Eastern Europe,2021,29,7.741596639
+BWA,Botswana,Sub-Saharan Africa,2021,30,7.729691877
+ITA,Italy,Western Europe,2021,31,7.676237162
+CPV,Cape Verde,Sub-Saharan Africa,2021,32,7.64754902
+MLT,Malta,Western Europe,2021,33,7.573646125
+GRC,Greece,Western Europe,2021,34,7.559056956
+SVN,Slovenia,Eastern Europe,2021,35,7.54388422
+BEL,Belgium,Western Europe,2021,36,7.510154062
+CYP,Cyprus,Western Europe,2021,37,7.430088702
+LVA,Latvia,Eastern Europe,2021,38,7.309056956
+MYS,Malaysia,Asia & Australasia,2021,39,7.241363212
+LTU,Lithuania,Eastern Europe,2021,40,7.184056956
+TTO,Trinidad and Tobago,Latin America & the Caribbean,2021,41,7.163048553
+JAM,Jamaica,Latin America & the Caribbean,2021,42,7.134453782
+TLS,Timor Leste,Asia & Australasia,2021,43,7.059080299
+ZAF,South Africa,Sub-Saharan Africa,2021,44,7.049159664
+SVK,Slovakia,Eastern Europe,2021,45,7.026727358
+IND,India,Asia & Australasia,2021,46,6.913071895
+BRA,Brazil,Latin America & the Caribbean,2021,47,6.864729225
+PAN,Panama,Latin America & the Caribbean,2021,48,6.85480859
+SUR,Suriname,Latin America & the Caribbean,2021,49,6.823762838
+ARG,Argentina,Latin America & the Caribbean,2021,50,6.807189542
+POL,Poland,Eastern Europe,2021,51,6.800070028
+IDN,Indonesia,Asia & Australasia,2021,52,6.709500467
+BGR,Bulgaria,Eastern Europe,2021,53,6.635971055
+PHL,Philippines,Asia & Australasia,2021,54,6.616830065
+NAM,Namibia,Sub-Saharan Africa,2021,55,6.517997199
+HRV,Croatia,Eastern Europe,2021,56,6.497782446
+GHA,Ghana,Sub-Saharan Africa,2021,57,6.49789916
+HUN,Hungary,Eastern Europe,2021,58,6.496498599
+COL,Colombia,Latin America & the Caribbean,2021,59,6.477824463
+DOM,Dominican Republic,Latin America & the Caribbean,2021,60,6.453431373
+ROU,Romania,Eastern Europe,2021,61,6.431605976
+MNG,Mongolia,Asia & Australasia,2021,62,6.416549953
+SRB,Serbia,Eastern Europe,2021,63,6.359383754
+LSO,Lesotho,Sub-Saharan Africa,2021,64,6.303244631
+GUY,Guyana,Latin America & the Caribbean,2021,65,6.245494865
+SGP,Singapore,Asia & Australasia,2021,66,6.233706816
+LKA,Sri Lanka,Asia & Australasia,2021,67,6.139262372
+ALB,Albania,Eastern Europe,2021,68,6.11136788
+MDA,Moldova,Eastern Europe,2021,69,6.104131653
+PNG,Papua New Guinea,Asia & Australasia,2021,70,6.095985061
+PER,Peru,Latin America & the Caribbean,2021,71,6.094304388
+THA,Thailand,Asia & Australasia,2021,72,6.042156863
+MKD,North Macedonia,Eastern Europe,2021,73,6.028034547
+MNE,Montenegro,Eastern Europe,2021,74,6.021498599
+BGD,Bangladesh,Asia & Australasia,2021,75,5.992553688
+TUN,Tunisia,Middle East & North Africa,2021,76,5.990662932
+PRY,Paraguay,Latin America & the Caribbean,2021,77,5.858193277
+MWI,Malawi,Sub-Saharan Africa,2021,78,5.742436975
+SLV,El Salvador,Latin America & the Caribbean,2021,79,5.715452848
+ZMB,Zambia,Sub-Saharan Africa,2021,80,5.721218487
+BTN,Bhutan,Asia & Australasia,2021,81,5.714985994
+ECU,Ecuador,Latin America & the Caribbean,2021,82,5.70751634
+MDG,Madagascar,Sub-Saharan Africa,2021,83,5.697128852
+FJI,Fiji,Asia & Australasia,2021,84,5.611601307
+HKG,Hong Kong,Asia & Australasia,2021,85,5.595564893
+MEX,Mexico,Latin America & the Caribbean,2021,86,5.570424837
+UKR,Ukraine,Eastern Europe,2021,87,5.572408964
+SEN,Senegal,Sub-Saharan Africa,2021,88,5.532726424
+ARM,Armenia,Eastern Europe,2021,89,5.490079365
+LBR,Liberia,Sub-Saharan Africa,2021,90,5.432236228
+GEO,Georgia,Eastern Europe,2021,91,5.117553688
+HND,Honduras,Latin America & the Caribbean,2021,92,5.101073763
+TZA,Tanzania,Sub-Saharan Africa,2021,93,5.099019608
+KEN,Kenya,Sub-Saharan Africa,2021,94,5.053291317
+BIH,Bosnia,Eastern Europe,2021,95,5.035901027
+MAR,Morocco,Middle East & North Africa,2021,96,5.038211951
+SLE,Sierra Leone,Sub-Saharan Africa,2021,97,4.974696545
+BOL,Bolivia,Latin America & the Caribbean,2021,98,4.647012138
+GTM,Guatemala,Latin America & the Caribbean,2021,99,4.623295985
+UGA,Uganda,Sub-Saharan Africa,2021,100,4.478968254
+GMB,The Gambia,Sub-Saharan Africa,2021,101,4.411227824
+NPL,Nepal,Asia & Australasia,2021,102,4.414379085
+TUR,Turkey,Western Europe,2021,103,4.347875817
+PAK,Pakistan,Asia & Australasia,2021,104,4.312605042
+CIV,Ivory Coast,Sub-Saharan Africa,2021,105,4.216690009
+BEN,Benin,Sub-Saharan Africa,2021,106,4.189892624
+NGA,Nigeria,Sub-Saharan Africa,2021,107,4.111531279
+MRT,Mauritania,Sub-Saharan Africa,2021,108,4.032749767
+PSE,Palestinian Territories,Middle East & North Africa,2021,109,3.942787115
+KWT,Kuwait,Middle East & North Africa,2021,110,3.913328665
+BFA,Burkina Faso,Sub-Saharan Africa,2021,111,3.836134454
+LBN,Lebanon,Middle East & North Africa,2021,112,3.835434174
+DZA,Algeria,Middle East & North Africa,2021,113,3.770261438
+QAT,Qatar,Middle East & North Africa,2021,114,3.654691877
+KGZ,Kyrgyzstan,Eastern Europe,2021,115,3.621732026
+IRQ,Iraq,Middle East & North Africa,2021,116,3.50751634
+MOZ,Mozambique,Sub-Saharan Africa,2021,117,3.508263305
+JOR,Jordan,Middle East & North Africa,2021,118,3.49388422
+HTI,Haiti,Latin America & the Caribbean,2021,119,3.481045752
+MLI,Mali,Sub-Saharan Africa,2021,120,3.484150327
+GAB,Gabon,Sub-Saharan Africa,2021,121,3.399533147
+AGO,Angola,Sub-Saharan Africa,2021,122,3.367507003
+ETH,Ethiopia,Sub-Saharan Africa,2021,123,3.301353875
+RUS,Russia,Eastern Europe,2021,124,3.240989729
+NER,Niger,Sub-Saharan Africa,2021,125,3.222525677
+COM,Comoros,Sub-Saharan Africa,2021,126,3.204295051
+RWA,Rwanda,Sub-Saharan Africa,2021,127,3.100443511
+SWZ,Eswatini,Sub-Saharan Africa,2021,128,3.082376284
+KAZ,Kazakhstan,Eastern Europe,2021,129,3.081092437
+OMN,Oman,Middle East & North Africa,2021,130,2.99764239
+VNM,Vietnam,Asia & Australasia,2021,131,2.944794585
+EGY,Egypt,Middle East & North Africa,2021,132,2.929131653
+ZWE,Zimbabwe,Sub-Saharan Africa,2021,133,2.924836601
+KHM,Cambodia,Asia & Australasia,2021,134,2.898576097
+ARE,United Arab Emirates,Middle East & North Africa,2021,135,2.897175537
+TGO,Togo,Sub-Saharan Africa,2021,136,2.795378151
+COG,Congo-Brazzaville,Sub-Saharan Africa,2021,137,2.785947712
+GNB,Guinea-Bissau,Sub-Saharan Africa,2021,138,2.745588235
+DJI,Djibouti,Sub-Saharan Africa,2021,139,2.741619981
+NIC,Nicaragua,Latin America & the Caribbean,2021,140,2.68872549
+AZE,Azerbaijan,Eastern Europe,2021,141,2.68496732
+CUB,Cuba,Latin America & the Caribbean,2021,142,2.588935574
+CMR,Cameroon,Sub-Saharan Africa,2021,143,2.559780579
+BHR,Bahrain,Middle East & North Africa,2021,144,2.520798319
+SDN,Sudan,Middle East & North Africa,2021,145,2.468720822
+BLR,Belarus,Eastern Europe,2021,146,2.405718954
+GIN,Guinea,Sub-Saharan Africa,2021,147,2.281792717
+CHN,China,Asia & Australasia,2021,148,2.214169001
+BDI,Burundi,Sub-Saharan Africa,2021,149,2.130718954
+UZB,Uzbekistan,Eastern Europe,2021,150,2.120121382
+VEN,Venezuela,Latin America & the Caribbean,2021,151,2.10550887
+SAU,Saudi Arabia,Middle East & North Africa,2021,152,2.077847806
+ERI,Eritrea,Sub-Saharan Africa,2021,153,2.032329599
+LBY,Libya,Middle East & North Africa,2021,154,1.946078431
+IRN,Iran,Middle East & North Africa,2021,155,1.946895425
+YEM,Yemen,Middle East & North Africa,2021,156,1.954248366
+TJK,Tajikistan,Eastern Europe,2021,157,1.938772176
+GNQ,Equatorial Guinea,Sub-Saharan Africa,2021,158,1.921498599
+LAO,Laos,Asia & Australasia,2021,159,1.772408964
+TCD,Chad,Sub-Saharan Africa,2021,160,1.66503268
+TKM,Turkmenistan,Eastern Europe,2021,161,1.660410831
+SYR,Syria,Middle East & North Africa,2021,162,1.430555556
+CAF,Central African Republic,Sub-Saharan Africa,2021,163,1.428921569
+COD,Congo,Sub-Saharan Africa,2021,164,1.395915033
+PRK,North Korea,Asia & Australasia,2021,165,1.083333333
+MMR,Myanmar,Asia & Australasia,2021,166,1.017156863
+AFG,Afghanistan,Asia & Australasia,2021,167,0.323109244
